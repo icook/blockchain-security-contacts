@@ -154,6 +154,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 
 | Name | Contact | More Info |
 | --- | --- | --- |
+| qTrade | eric@qtrade.io | |
 | Amoveo Exchange | admin@amoveo.exchange | |
 | BCEX | business@bcex.top, service@bcex.top | |
 | Bibox | support@bibox.zendesk.com | |
